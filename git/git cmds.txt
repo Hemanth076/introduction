@@ -1,0 +1,4 @@
+git init -to initialize git repository
+git status -show tracked and untracked files
+git add <filename> - adds file to staging area
+git commit-commits changes
